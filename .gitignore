@@ -57,6 +57,9 @@ __pycache__/
 # C extensions
 *.so
 
+# include token
+mooncord.json
+
 # Distribution / packaging
 .Python
 build/
